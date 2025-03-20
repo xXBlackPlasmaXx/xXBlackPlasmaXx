@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html>
-<body>
-<!-- Add your GIFs here -->
-<span style="display:inline-block; margin-right:5px;">
-  <img src="https://88x31.kate.pet/piracy.png" height="31" />
-</span>
-<span style="display:inline-block; margin-right:5px;">
-  <img src="https://88x31.kate.pet/chill_pill.gif" height="31" />
-</span>
-<span style="display:inline-block; margin-right:5px;">
-  <img src="https://88x31.kate.pet/w7-boot.gif" height="31" />
-</span>
-<span style="display:inline-block; margin-right:5px;">
-  <img src="https://88x31.kate.pet/portal_alt.jpg" height="31" />
-</span>
-<span style="display:inline-block; margin-right:5px;">
-  <img src="https://88x31.kate.pet/any_browser.gif" height="31" />
-</span>
-<span style="display:inline-block; margin-right:5px;">
-  <a href="https://code.visualstudio.com">
-    <img src="https://88x31.kate.pet/vscode.gif" height="31" />
-  </a>
-</span>
-</body>
-</html>
+![piracy](https://88x31.kate.pet/piracy.png)
+![chill_pill](https://88x31.kate.pet/chill_pill.gif)
+![w7-boot](https://88x31.kate.pet/w7-boot.gif)
+![portal_alt](https://88x31.kate.pet/portal_alt.jpg)
+![any_browser](https://88x31.kate.pet/any_browser.gif)
+[![vscode](https://88x31.kate.pet/vscode.gif)](https://code.visualstudio.com)
+![mars_icon](https://anlucas.neocities.org/mars_icon.gif)
+![nvidia](https://github.com/user-attachments/assets/98348528-b7e5-4ab1-b087-e8645ab88870)
+![3dot5mmfc-button](https://github.com/user-attachments/assets/cf22ab3d-c016-4528-8e39-05829e72ce20)
+![notepad6](https://github.com/user-attachments/assets/14af1d89-7f5e-4924-8272-1c2cf02c885d)
+![netflix-88x31](https://github.com/user-attachments/assets/68e3e54c-0537-45ad-8e9b-905c6d832f2b)
+![blender](https://github.com/user-attachments/assets/584f3363-39ff-494d-ad19-e6dc9cfad8f9)
