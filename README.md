@@ -10,3 +10,4 @@
 ![notepad6](https://github.com/user-attachments/assets/14af1d89-7f5e-4924-8272-1c2cf02c885d)
 ![netflix-88x31](https://github.com/user-attachments/assets/68e3e54c-0537-45ad-8e9b-905c6d832f2b)
 [![blender](https://github.com/user-attachments/assets/584f3363-39ff-494d-ad19-e6dc9cfad8f9)](https://blender.org)
+[![xmr](https://github.com/user-attachments/assets/3966cf82-142d-4efd-b5e6-92a93916e1ea)](https://getmonero.org)
